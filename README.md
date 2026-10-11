@@ -1,30 +1,39 @@
 # 🚦 Kinshasa Smart Traffic Light
-### Feu de Circulation Solaire Intelligent - Grande Voie Kinshasa
+### Feu de Circulation Solaire Intelligent - Made in Congo 🇨🇩
 
-<img src="https://raw.githubusercontent.com/blackdolph12/kinshasa-smart-traffic-light/main/render-kingabwa.jpg" width="100%">
+> 100% solaire | Contrôlé par téléphone 4G | Open Source | Fierté Congolaise
 
-> 100% solaire | Contrôlé par téléphone 4G | Open Source | Made in Congo 🇨🇩
+---
 
-### 📍 ![Kingabwa - Limete](4e702714-7653-d56a-3271-80260620f3d3.jpeg) Kinshasa
-Feu solaire installé à Kingabwa, route poussiéreuse avec camions, taxis jaunes, marché. **Pas de SNEL? Pas de problème!** Notre système fonctionne 72h sans soleil.
+### 📍 Kingabwa - Limete - Version Réelle
+Feu solaire installé à Kingabwa, route poussiéreuse avec marché, taxis jaunes
+![Kingabwa Real](4e702714-7653-d56a-3271-80260620f3d3.jpeg)
 
-**Prochain site:** Gombe - Boulevard du 30 Juin (grande voie 6m)
+### 📍 Kingabwa V2 - Marché Animé
+Version avec circulation dense, marché de mangues et manioc
+![Kingabwa V2](render-kingabwa-v2.jpg)
 
-## 🎯 Le Problème / The Problem
-Les grandes routes de Kinshasa (Blvd 30 Juin, Triomphal, Matadi) n'ont pas de feux ou feux cassés. Résultat: embouteillages monstres, accidents, pas de régulation.
+### 📍 Kingabwa V3 - Route Goudronnée Neuve
+Route rénovée avec asphalte propre, marquages blancs
+![Kingabwa Paved](render-kingabwa-paved.jpg)
 
-## 💡 La Solution
-- 2x Panneaux solaires 100W = 200W total
-- Batterie LiFePO4 12V 100Ah = **72h sans soleil**
-- Contrôleur Raspberry Pi 4 + 4G Airtel/Vodacom/Orange
-- Contrôle depuis téléphone via Telegram
-- Poteau 6 mètres + Boîtier IP65
-- Coût: $370 à $900 vs $27,500 ancien robot!
+### 📍 Kingabwa FINAL - Après Travaux
+Boulevard fini, supermarché, pharmacie, trottoirs larges, feu vert
+![Kingabwa Final](render-kingabwa-final.jpg)
 
-## 🛒 Où acheter à Kinshasa
-Marché Gambela / Zando / Limete 7ème rue / Jumia RDC
+### 📍 Kingabwa DRONE - Vue Aérienne
+Vue drone du boulevard complet, panneaux solaires sur toits
+![Kingabwa Drone](render-kingabwa-drone.jpg)
 
-## 💻 Code
-Dans `firmware/traffic_controller.py`
+---
 
-Made with ❤️ in Kinshasa - blackdolph12
+## 🛠️ Tech Stack
+- ESP32 + Panneau Solaire 50W
+- Contrôle 4G via téléphone
+- Batterie Lithium 12V
+- Code Open Source
+
+## 🌍 Impact
+Sécurité routière à Kingabwa, Limete, Kinshasa - Réduit les accidents
+
+**Made in Congo - Par Congolais, Pour Congolais**
