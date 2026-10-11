@@ -18,17 +18,11 @@ https://github.com/Blackdolph12/kinshasa-smart-traffic-light/blob/main/demo.mp4
 ### 📍 Kingabwa - Limete - Version Réelle
 Feu solaire installé à Kingabwa, route poussiéreuse avec taxis jaunes
 
-![Kingabwa_Real](4e702714-7653-d56a-3271-80260620f3d3.jpeg)
-
 ### 📍 Kingabwa V2 - Marché Animé
 Route animée avec vendeuses de mangues, 100% réaliste Kinshasa
 
-![Kingabwa_V2](5a3e1c9e-8f2d-4b1a-9c7e-1d2e3f4a5b6c.jpeg)
-
 ### 📍 Limete Industrielle - Boulevard Lumumba
 Pharmacie Croix Bleue & Kin Market - Boulevard moderne transformé
-
-![Limete_Modern](limete_modern.jpeg)
 
 ---
 
