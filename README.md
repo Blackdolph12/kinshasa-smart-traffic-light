@@ -5,7 +5,7 @@
 
 > 100% solaire | Contrôlé par téléphone 4G | Open Source | Made in Congo 🇨🇩
 
-### 📍 Site Pilote #1: Kingabwa - Limete - Kinshasa
+### 📍 ![Kingabwa - Limete](4e702714-7653-d56a-3271-80260620f3d3.jpeg) Kinshasa
 Feu solaire installé à Kingabwa, route poussiéreuse avec camions, taxis jaunes, marché. **Pas de SNEL? Pas de problème!** Notre système fonctionne 72h sans soleil.
 
 **Prochain site:** Gombe - Boulevard du 30 Juin (grande voie 6m)
