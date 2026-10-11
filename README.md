@@ -18,7 +18,6 @@ Made in Congo - 100% Solaire
 ![4](IMG_7198.jpeg)
 
 ### 5️⃣ Render Final
-![5](render-kingabwa.jpg)
-
+![5](IMG_7198.jpeg)
 ---
 **Blackdolph12 - Kinshasa, RDC**
