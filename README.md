@@ -1,28 +1,41 @@
-## 🎥 Video Demo
+## 🎥 Video Demo - Kingabwa Limete Transformation
 
-https://github.com/Blackdolph12/kinshasa-smart-traffic-light/blob/main/demo.mp4
+### [▶️ CLICK TO WATCH FULL VIDEO DEMO](./Untitleddesign%201.mp4)
 
-### [▶️ CLICK TO WATCH FULL VIDEO DEMO](./demo.mp4)
-
-> Dusty Road → Mango Market → New Pavement → Boulevard (Kin Market & Croix Bleue) → Solar Light GREEN → Drone View
+> 6 Panels: Dusty Road → Mango Market → New Pavement → Modern Boulevard (Kin Market & Pharmacie Croix Bleue) → Solar Traffic Light GREEN → Drone View
 
 ---
 
-# 🚦 Kinshasa Smart Traffic Light - Made in Congo 🇨🇩
-100% solaire | Contrôlé 4G | Open Source
+# 🚦 Kinshasa Smart Traffic Light
+### Feu Solaire Intelligent - Made in Congo 🇨🇩
+
+> 100% solaire | Contrôlé par téléphone 4G | Open Source | Fierté Congolaise
 
 ### 📍 Kingabwa - Version Réelle
-![Kingabwa](kingabwa1.jpg)
+![Kingabwa](IMG_7190.jpeg)
 
 ### 📍 Kingabwa V2 - Marché Animé
-![Kingabwa V2](kingabwa2.jpg)
+![Kingabwa V2](IMG_7193.jpeg)
 
-### 📍 Limete - Boulevard Lumumba
-![Limete](limete.jpg)
+### 📍 Limete Industrielle - Boulevard Lumumba
+![Limete](IMG_7196.jpeg)
 
-### 🛠️ Technologie
-- Panneau 200W + Batterie
-- Controle par telephone
-- Installation 2h
+### 📍 Render Final
+![Render](render-kingabwa.jpg)
 
-### 👨‍💻 Blackdolph12 - Kinshasa
+---
+
+## 🎬 Transformation - Before / After
+**AVANT:** Route poussiéreuse, taxis jaunes embouteillés, pas de signalisation
+**APRÈS:** Boulevard pavé, feu solaire intelligent, circulation fluide
+
+## 🛠️ Technologie
+- 100% Solaire - Panneau 200W + Batterie
+- Contrôle 4G via smartphone
+- Matériaux locaux - résiste poussière Kinshasa
+
+## 👨‍💻 Auteur
+**Blackdolph12** - Ingénieur Congolais - Kinshasa, RDC
+⭐ Laissez une étoile!
+
+### 🚀 Live: https://blackdolph12.github.io/kinshasa-smart-traffic-light/
